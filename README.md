@@ -59,7 +59,8 @@ This project addresses both **Round 1A** and **Round 1B** of the Adobe India Hac
 
 ---
 
-###✅ Round 1B: Persona-Driven Document Intelligence
+####
+✅ Round 1B: Persona-Driven Document Intelligence
 We extended the system to support persona-based document analysis, which:
 
 Accepts a collection of 3–10 PDFs
